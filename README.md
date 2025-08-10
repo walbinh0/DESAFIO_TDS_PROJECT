@@ -7,7 +7,7 @@ Projeto de testes automatizados para o site [Automation Exercise](https://automa
 - ✅ **Teste de Cadastro**: Cadastro completo de usuário
 - ✅ **Teste de Compra**: Fluxo completo de compra de produto
 - 🧪 **Framework**: Cypress com suporte a Cucumber
-- 👤 **Geração de Dados**: Usuários únicos com Faker.js
+- 👤 **Geração de Dados**: Usuários únicos com Faker.js 
 
 ## 🛠️ Tecnologias Utilizadas
 - **Cypress** - Framework de testes E2E
