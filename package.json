@@ -1,0 +1,18 @@
+{
+  "name": "desafio_tds_ready",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "test": "npx cypress run"
+  },
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^16.0.0",
+    "cypress": "^12.17.4",
+    "webpack": "^5.0.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.0.0"
+  }
+}
