@@ -37,13 +37,10 @@ cypress/
 
 ### Instalação
 ```bash
-# Instalar dependências
 npm install
 
-# Abrir Cypress
 npx cypress open
 
-# Executar testes via linha de comando
 npx cypress run
 ```
 
